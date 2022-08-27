@@ -1,6 +1,6 @@
-Fr### Hi there 👋
+### Hi there 👋
 
-<!--
+
 **jyotisp/jyotisp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -27,4 +27,4 @@ LinkedIn: https://www.linkedin.com/in/jyotipawar
 
 
 
--->
+
